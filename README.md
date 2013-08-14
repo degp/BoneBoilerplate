@@ -1,4 +1,4 @@
-BoneBoilerplate
-===============
+#BoneBoilerplate
 
-Wordpress + Bone framework boilerplate(Enhance development)
+
+Bone development
