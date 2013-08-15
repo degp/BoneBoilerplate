@@ -1,4 +1,8 @@
 BoneBoilerplate
 ================
 
-###Bone development
+Bone development
+----------------
+
+Bone development
+----------------
