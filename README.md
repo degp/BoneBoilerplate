@@ -3,5 +3,5 @@ BoneBoilerplate
 
 ######Bone development######
 
-`php  
-echo phpinfo();`
+    php
+    phpinfo();
