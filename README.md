@@ -3,4 +3,5 @@ BoneBoilerplate
 
 ######Bone development######
 
-___Test Data___
+`php
+echo phpinfo();`
