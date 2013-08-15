@@ -3,5 +3,4 @@ BoneBoilerplate
 
 ######Bone development######
 
-    php
-    phpinfo();
+> "This is a test"
