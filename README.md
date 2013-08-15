@@ -1,5 +1,3 @@
 #BoneBoilerplate
 
-#sample
-
 ###Bone development
