@@ -3,4 +3,4 @@ BoneBoilerplate
 
 ######Bone development######
 
-> "This is a test"
+[Google](http://google.com)
