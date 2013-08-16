@@ -1,8 +1,8 @@
 BoneBoilerplate
 ================
 
-######Bone development######
+Bone development
+----------------
 
-[Google][google_url]
+![Google](http://www.ososimpletechnologies.com/wp-content/uploads/2013/06/Google.jpg)
 
-[google_url]: http://www.google.com "Google"
