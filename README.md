@@ -3,4 +3,6 @@ BoneBoilerplate
 
 ######Bone development######
 
-[Google](http://google.com)
+[Google][google_url]
+
+[google_url]: http://www.google.com "Google"
